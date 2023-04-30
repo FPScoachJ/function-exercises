@@ -30,7 +30,7 @@
 
 // arrLargest(arr);
 
-// Write a function that takes an array of strings as an argument and returns a new array with all the strings capitalized.
+    // Write a function that takes an array of strings as an argument and returns a new array with all the strings capitalized.
 
 // let arr = ["a","b","c","d","e"]
 // let arrCap = [];
